@@ -54,7 +54,7 @@ irritated; but you had the justice to forget the man, and promote the interests 
 <pb facs="7"/>
 <head>PROLOGUE.</head>
 <byline>Spoken by Mr. BERNARD, in the character of a News-hawker.</byline>
-<stage>After sounding and calling "Great news!" without, enter with a postman's horn, newspapers, cap, and livery.</stage>
+<stage>After sounding and calling <said direct="true">"Great news!"</said> without, enter with a postman's horn, newspapers, cap, and livery.</stage>
 <sp>
 <lg>
 <l>GREAT news! Great news! Extraordinary news!</l>
@@ -4510,7 +4510,7 @@ neighbouring tavern, where this business may be effectually settled, as quietly,
 </div>
 <div type="scene">
 <head><stage><hi>SCENE</hi> changes to the <hi>COUNT</hi>'s Apartment.</stage></head>
-<stage>A considerable noise of hasty footsteps without, and voices at some distance calling—<hi>"Here! Here!—This way!—Up, up!—Follow!"</hi></stage>
+<stage>A considerable noise of hasty footsteps without, and voices at some distance calling—<said direct="true"><hi>"Here! Here!—This way!—Up, up!—Follow!"</hi></said></stage>
 <stage>Enter Mr. <hi>DORIMONT,</hi> abruptly.</stage>
 <sp>
 <speaker>Mr. <hi>Dor.</hi></speaker>
@@ -4527,7 +4527,7 @@ neighbouring tavern, where this business may be effectually settled, as quietly,
 </sp>
 <sp>
 <speaker>Mac D.</speaker>
-<p>Faith and that is more than I can tell. <stage>[Noise approaching—"Here, here, I tell you! This room!"]</stage> Why what the divle—!</p>
+<p>Faith and that is more than I can tell. <stage>[Noise approaching—<said direct="true">"Here, here, I tell you! This room!"</said>]</stage> Why what the divle—!</p>
 </sp>
 <sp>
 <speaker>Mr. <hi>Dor.</hi></speaker>
@@ -4603,7 +4603,7 @@ neighbouring tavern, where this business may be effectually settled, as quietly,
 <speaker>Mac D.</speaker>
 <p>Why what is all this now?—Poor ould gintleman!</p>
 </sp>
-<stage>[Noise without at a distance—<hi>"Rescue! Rescue! Help!"]</hi></stage>
+<stage>[Noise without at a distance—<said direct="true"><hi>"Rescue! Rescue! Help!"]</hi></said></stage>
 <sp>
 <speaker>Mac D.</speaker>
 <p>Where is my shillalee?—Oh, by St. Peter and his crook, but I will be one among you, scoundrels! <stage>[Exit running.</stage></p>

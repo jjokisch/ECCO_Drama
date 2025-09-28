@@ -4535,7 +4535,7 @@ How grew the Master-Soldier of the World</l>
 <l>'Tis strange, that I, too, cannot!—Yet, beware,</l>
 <l>Thou call'st no Aid of <hi>Arms:—</hi>Civil <hi>to</hi> Civil,</l>
 <l>And, but to <hi>martial</hi> military.—Hear'st thou</l>
-<stage><hi>Loud Cry of A</hi> Caesar<hi>—A</hi> Caesar!</stage>
+<stage><hi>Loud Cry of </hi><said direct="true"><hi>A</hi> Caesar<hi>—A</hi> Caesar!</said></stage>
 <l>You shoutig Swarm, that shakes <hi>Rome</hi>'s echoing <hi>Domes?</hi></l>
 <l>Lead those <hi>loud Voters,</hi> from the o'rerowded Streets,</l>
 <l>To where their Cry may reach the <hi>Senate</hi>'s Ear:</l>
@@ -4709,7 +4709,7 @@ To feed the rich Man's Luxury.—No Tears</l>
 <l>Of starving <hi>Want;—</hi>no iron Hand of Law;</l>
 <l>No Slaves to fellow-subjects, shall make <hi>sad</hi></l>
 <l>The Streets of <hi>happy Rome—</hi>If <hi>Caesar</hi> reigns.</l>
-<stage><hi>A cry from within—</hi>Liberty! Liberty: Liberty!</stage>
+<stage><hi>A cry from within—</hi><said direct="true">Liberty! Liberty: Liberty!</said></stage>
 <l>Hark! in that Cry, arose no voice of <hi>Joy!</hi></l>
 <l>By Heaven; they Murder <hi>Caesar!</hi> guard this Door,</l>
 <l>Good <hi>Romans! Fulvius! Aetius!</hi> your try'd Swords,</l>
@@ -4743,7 +4743,7 @@ To feed the rich Man's Luxury.—No Tears</l>
 Were to perpetuate <hi>Pain:—</hi>and Death grows <hi>Joy.</hi></l>
 <l>Speaking, he sunk:—Soft, o'er his manly form,</l>
 <l>Smooth'd his disorder'd Robe—and, sighless, <hi>died.</hi></l>
-<stage>Cry again, from within, Liberty! Liberty!</stage>
+<stage>Cry again, from within, <said direct="true">Liberty! Liberty!</said></stage>
 </sp>
 <sp>
 <speaker>TRINOVANTIUS.</speaker>

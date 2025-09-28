@@ -1498,7 +1498,7 @@ yes, ma'am—I belong to the shop. <stage>(throwing away his hat)</stage> What a
 <sp>
 <speaker>Clem.</speaker>
 <p>Silence, brute!</p>
-<stage>(WITHOUT) <hi>"Room for the sheriff."</hi></stage>
+<stage>(WITHOUT) <said direct="true"><hi>"Room for the sheriff."</hi></said></stage>
 </sp>
 <stage><hi>Enter</hi> ALLSPICE <hi>(with sheriff's gown and wig, wiping his face).</hi></stage>
 <sp>
